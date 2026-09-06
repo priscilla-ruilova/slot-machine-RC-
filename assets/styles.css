@@ -1,0 +1,104 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+/*
+=============================
+Heading and Instructions
+=============================
+*/
+h1{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding-top: 6rem;
+    font-family: "Unkempt", Arial, Helvetica, sans-serif;
+    font-size: 4rem;
+}
+p{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding-top: 3rem;
+    font-family: "Unkempt", Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+}
+#balance{
+    display: flex;
+    justify-content: center;
+    margin: 2rem auto;
+    color: rgb(22, 130, 60);
+    font-family: "Unkempt", Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+}
+
+/*
+===============================
+THE REELS
+===============================
+*/
+
+section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 0.6rem;
+    margin: auto;
+    width: 20%;
+}
+#reel1, #reel2, #reel3{
+    border: 2px, solid, rgb(38, 38, 101);
+    border-radius: 0.6rem;
+    background-color: rgba(244, 181, 229, 0.424);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 3rem;
+} 
+section span{
+    width: 30px;
+    height: 60px;
+    border: 1px, solid, rgba(255, 192, 203, 0.731);
+} 
+/* 
+====================================
+BET LABEL AND BUTTON
+====================================
+*/
+.lastSection, button{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    font-family: "Unkempt", Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+}
+.lastSection{
+    background: none;
+    border: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+.lastSection label{
+    margin: 1rem;
+}
+.lastSection button{
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+    width: auto;
+    font-size: 1.5rem;
+}
+p{
+    display:flex;
+    justify-content: center;
+    margin: auto;
+}
+.luck{
+    display: flex;
+    justify-content: center;
+    font-family: "Unkempt", Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+}
