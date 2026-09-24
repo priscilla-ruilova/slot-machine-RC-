@@ -9,3 +9,8 @@ This project is a simple slot machine with minimum 5 items per reel and 3 reels.
 ## Languages Used: HTML, CSS, JavaScript
 
 ### Try it yourself! Fork and clone from the master branch of this repo to make this project your own!
+
+## What I learned: 
+*the importance of comments to outline the logic and direction of your project
+*using Math.random() to create random numbers and mimic the game of chance that is a slot machine
+*your HTML design does not need to come first. Sometimes its worth figuring out the logic first. 
