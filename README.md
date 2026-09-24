@@ -1,24 +1,11 @@
-# 🎰 Week05 Bootcamp2019 Project: Slot Machine
+# Project Title: Slot Machine
 
 ### Goal: Build a Simple Slot Machine
 
-Build a simple slot machine with minimum 5 items per reel and 3 reels - user should be able to bet min or max and have their total update
+This project is a simple slot machine with minimum 5 items per reel and 3 reels. The user should be able to bet min or max and have their total update. 
 
-### How to submit your code for review:
+![Screenshot of the web app after user has input a few bests](assets/SlotMachineScreenshot.png)
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## Languages Used: HTML, CSS, JavaScript
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+### Try it yourself! Fork and clone from the master branch of this repo to make this project your own!
