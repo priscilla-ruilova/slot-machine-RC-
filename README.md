@@ -1,4 +1,4 @@
-# Project Title: Slot Machine
+# Project Title: Simple Slot Machine
 
 ### Goal: Build a Simple Slot Machine
 
