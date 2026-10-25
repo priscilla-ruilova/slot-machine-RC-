@@ -7,6 +7,9 @@
 Heading and Instructions
 =============================
 */
+body{
+    background-color: rgb(224, 250, 230);
+}
 h1{
     display: flex;
     justify-content: center;
