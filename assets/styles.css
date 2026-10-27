@@ -50,12 +50,15 @@ section{
 #reel1, #reel2, #reel3{
     border: 2px, solid, rgb(38, 38, 101);
     border-radius: 0.6rem;
+    font-size: 4rem;
     background-color: rgba(244, 181, 229, 0.424);
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 3rem;
+    width: 7rem;
+    height: 8rem;
 } 
+
 section span{
     width: 30px;
     height: 60px;
